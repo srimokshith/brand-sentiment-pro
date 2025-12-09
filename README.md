@@ -126,6 +126,8 @@ MIT License
 
 **Mokshith**
 - GitHub: [@srimokshith](https://github.com/srimokshith)
+- phn no: 9392597727
+- Email: srimokshithinturi@gmail.com
 
 ---
 
