@@ -2,7 +2,7 @@
 
 **Advanced Real-Time Brand Sentiment Analysis with AI**
 
-An intelligent sentiment analysis platform that monitors brand perception across social media using state-of-the-art NLP models.
+An intelligent sentiment analysis platform that monitors brand perception across social media using state-of-the-art NLP models
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red)
